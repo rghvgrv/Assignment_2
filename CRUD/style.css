@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+.card
+{
+    text-align: center;
+}
+
+input
+{
+    text-align: center;
+    width: 20%;
+    height: 30px;
+}
+
+input:focus
+{
+    background-color: burlywood;
+}
+
+button
+{
+    width: 130px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:turquoise;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: bisque;
+}
+
+table
+{
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.table1{
+    text-align: center;
+}
